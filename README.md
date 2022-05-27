@@ -1,1 +1,1 @@
-# ProjectPracticeTestNG
+# Project Practice TestNG
